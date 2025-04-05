@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  api:
+    image: peerhire-api
+    ports:
+      - "3000:3000"
+    build:
+      context: .
+    container_name: peerhire-api-container
