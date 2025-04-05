@@ -26,7 +26,7 @@ The CI/CD pipeline is configured using GitHub Actions:
 
 📦 Push to Docker Hub
 
-☁️ Deploy to AWS EC2 using SSH (apeerhire/ssh-action)
+☁️ Deploy to AWS EC2 using SSH (peerhire/ssh-action)
 
 📬 API Documentation
 Swagger
